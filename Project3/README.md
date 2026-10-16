@@ -37,10 +37,10 @@ Extends PROJECT-CE by replacing Arduino's built-in `millis()` with a custom `mym
 - LEDs are on pins 2 and 3 per EC.3.
 
 ## Report
-The full design report is available at [`report.pdf`](./report.pdf). The Engineering Change Note is at [`ECN1_1.pdf`](./ECN1_2.pdf).
+The full design report is available at [`report.pdf`](./report.pdf). The Engineering Change Note is at [`ECN1_2.pdf`](./ECN1_2.pdf).
 
 ## Changes from PROJECT-CE
-See `ECN1.2.pdf` and `SDD_PROJECT-MYMILLI_v1.2.pdf` for full details.
+See `ECN1.2.pdf` and `report.pdf` for full details.
 
 ## License
 Educational use only.
