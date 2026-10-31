@@ -45,7 +45,7 @@ This project extends PROJECT-MYMILLI by adding a DC motor-driven fan controlled 
 - LEDs are on pins 2 and 3 per EC.3.
 
 ## Report
-The full design report is available at `report.pdf`. The Engineering Change Note is at `ECN1.3.pdf`.
+The full design report is available at [`report.pdf`](./report.pdf). The Engineering Change Note is at [`ECN1_3.pdf`](./ECN1_3.pdf).
 
 ## License
 Educational use only.
