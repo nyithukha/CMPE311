@@ -2,7 +2,7 @@
 
 **Author:** Nyi Thu Kha  
 **Course:** CMPE 311, UMBC  
-**Date:** <DATE>
+**Date:** 10/31/2026
 
 ## Overview
 Extends PROJECT-MYMILLI by adding a DC motor-driven fan controlled by a 
